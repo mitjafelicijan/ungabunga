@@ -1,7 +1,13 @@
-" Unga Bunga theme. Basic bitch of a theme.
+" Name:         ungabunga
+" Description:  Unga Bunga theme. Basic bitch of a theme.
+" Author:       Mitja Felicijan <mitja.felicijan@gmail.com>
+" Maintainer:   Mitja Felicijan <mitja.felicijan@gmail.com>
+" Website:      https://github.com/vim/colorschemes
+" License:      Mitja Felicijan (see `:help license`)`
+" Last Change:  2025 Mar 5
 
+set background=dark
 let g:colors_name = 'ungabunga'
-
 hi clear
 
 hi LineNr ctermbg=NONE ctermfg=8
