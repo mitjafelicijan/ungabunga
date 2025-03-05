@@ -4,6 +4,7 @@ hi clear
 
 hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLine ctermbg=234 cterm=NONE
+hi CursorLineNC ctermbg=234 cterm=NONE
 hi CursorLineNr ctermbg=234 ctermfg=8 cterm=NONE
 hi FoldColumn ctermbg=NONE cterm=NONE
 hi SignColumn ctermbg=NONE ctermfg=7 cterm=NONE
@@ -14,7 +15,7 @@ hi ModeMsg ctermbg=120 ctermfg=16
 hi Comment ctermfg=60
 hi String ctermfg=193
 hi Constant ctermfg=167
-hi Todo ctermbg=yellow
+hi Todo ctermbg=cyan
 
 hi ALEError ctermbg=NONE ctermfg=NONE
 hi ALEWarning ctermbg=NONE ctermfg=NONE
