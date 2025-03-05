@@ -16,7 +16,7 @@ hi PmenuSel ctermbg=0 ctermfg=15
 hi Comment ctermfg=60
 hi String ctermfg=193
 hi Constant ctermfg=167
-hi Todo ctermbg=cyan cterm=NONE
+hi Todo ctermfg=cyan
 
 hi ALEError ctermbg=NONE ctermfg=NONE
 hi ALEWarning ctermbg=NONE ctermfg=NONE
