@@ -2,7 +2,6 @@ let g:colors_name = 'ungabunga'
 hi clear
 set background=dark
 
-hi CursorColumn ctermfg=NONE ctermbg=red cterm=NONE
 hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLine ctermbg=234 cterm=NONE
 hi CursorLineNr ctermbg=234 ctermfg=8 cterm=NONE
@@ -11,6 +10,8 @@ hi SignColumn ctermbg=NONE ctermfg=7 cterm=NONE
 hi StatusLine ctermfg=245 ctermbg=235 cterm=bold
 hi StatusLineNC ctermfg=245 ctermbg=NONE cterm=reverse
 hi ModeMsg ctermbg=120 ctermfg=16
+hi Pmenu ctermbg=15 ctermfg=0
+hi PmenuSel ctermbg=0 ctermfg=15
 
 hi Comment ctermfg=60
 hi String ctermfg=193
@@ -22,3 +23,4 @@ hi ALEWarning ctermbg=NONE ctermfg=NONE
 hi ALEErrorSign ctermbg=NONE ctermfg=red
 hi ALEWarningSign ctermbg=NONE ctermfg=yellow
 hi ALEInfoSign ctermbg=NONE ctermfg=white
+
