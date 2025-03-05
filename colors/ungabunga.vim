@@ -18,3 +18,4 @@ hi String ctermfg=44
 hi Statement ctermfg=178
 hi Constant ctermfg=167
 hi Type ctermfg=115
+hi Function ctermbg=NONE ctermfg=208
