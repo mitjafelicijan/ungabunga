@@ -4,6 +4,7 @@ let g:colors_name = 'ungabunga'
 
 hi clear
 
+hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLine ctermbg=234 cterm=NONE
 hi CursorLineNr ctermbg=234 ctermfg=8 cterm=NONE
 hi FoldColumn ctermbg=NONE cterm=NONE
