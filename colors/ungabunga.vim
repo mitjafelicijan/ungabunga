@@ -13,13 +13,9 @@ hi ModeMsg ctermbg=120 ctermfg=16
 
 hi Comment ctermfg=60
 hi String ctermfg=193
-hi Statement ctermfg=178
-hi Constant ctermfg=167
-hi Type ctermfg=51
-hi Function ctermbg=NONE ctermfg=208
 
 hi ALEError ctermbg=NONE ctermfg=NONE
 hi ALEWarning ctermbg=NONE ctermfg=NONE
-hi ALEErrorSign ctermbg=NONE ctermfg=88
-hi ALEWarningSign ctermbg=NONE ctermfg=94
-hi ALEInfoSign ctermbg=NONE ctermfg=8
+hi ALEErrorSign ctermbg=NONE ctermfg=red
+hi ALEWarningSign ctermbg=NONE ctermfg=yellow
+hi ALEInfoSign ctermbg=NONE ctermfg=white
