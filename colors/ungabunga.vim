@@ -12,10 +12,10 @@ hi StatusLineNC ctermfg=245 ctermbg=NONE cterm=reverse
 hi ModeMsg ctermbg=120 ctermfg=16
 
 hi Comment ctermfg=60
-hi String ctermfg=44
+hi String ctermfg=193
 hi Statement ctermfg=178
 hi Constant ctermfg=167
-hi Type ctermfg=115
+hi Type ctermfg=51
 hi Function ctermbg=NONE ctermfg=208
 
 hi ALEError ctermbg=NONE ctermfg=NONE
