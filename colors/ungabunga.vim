@@ -2,6 +2,7 @@ let g:colors_name = 'ungabunga'
 hi clear
 set background=dark
 
+hi CursorColumn ctermfg=NONE ctermbg=red cterm=NONE
 hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLine ctermbg=234 cterm=NONE
 hi CursorLineNr ctermbg=234 ctermfg=8 cterm=NONE
