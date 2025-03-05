@@ -5,6 +5,7 @@ hi clear
 hi LineNr ctermbg=NONE ctermfg=8
 hi CursorLine ctermbg=234 cterm=NONE
 hi CursorLineNr ctermbg=234 ctermfg=8 cterm=NONE
+hi CursorLineTodo ctermbg=cyan cterm=NONE
 hi FoldColumn ctermbg=NONE cterm=NONE
 hi SignColumn ctermbg=NONE ctermfg=7 cterm=NONE
 hi StatusLine ctermfg=245 ctermbg=235 cterm=bold
