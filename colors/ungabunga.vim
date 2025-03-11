@@ -17,10 +17,3 @@ hi Comment ctermfg=60
 hi String ctermfg=193
 hi Constant ctermfg=167
 hi Todo ctermfg=164 ctermbg=NONE
-
-hi ALEError ctermbg=NONE ctermfg=NONE
-hi ALEWarning ctermbg=NONE ctermfg=NONE
-hi ALEErrorSign ctermbg=NONE ctermfg=red
-hi ALEWarningSign ctermbg=NONE ctermfg=yellow
-hi ALEInfoSign ctermbg=NONE ctermfg=white
-
